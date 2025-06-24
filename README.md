@@ -6,6 +6,11 @@ The goal of this project is to develop a brain tumor detection system that can a
 
 After training, we evaluated the performance of the model on a separate test set. We obtained an accuracy of 99% on the test set, which indicates that the model is able to accurately classify brain scans as either having a tumor or not.We aim to improve the accuracy and speed of brain tumor diagnosis, ultimately leading to better patient outcomes.
 
+## Dataset
+We're going to use an open data source from Kaggle: https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation
+
+
+
 ## Some Demo Output
 
 ## 1. interactive bar chart
