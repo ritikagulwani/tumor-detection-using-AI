@@ -1,5 +1,12 @@
 # About the Project
 
+## Work flow diagram
+![my img](https://github.com/user-attachments/assets/a0730207-3ffb-432b-a9ec-fa9a981db337)
+
+
+
+## Description of project
+
 The detection of brain tumors is a critical task in the field of medical imaging, as it can significantly impact patient outcomes. However, accurately detecting brain tumors can be challenging due to the complex nature of the human brain and the variability in the appearance of tumors. Therefore, there is a need for an automated and accurate brain tumor detection system that can assist healthcare professionals in diagnosing brain tumors.
 
 The goal of this project is to develop a brain tumor detection system that can accurately classify brain scans as either containing a tumor or not. We aim to create a model that can handle the variability in brain scans and provide accurate results in a timely manner. To achieve our goal, we will use a dataset consisting of brain scan images. We will preprocess and augment the dataset to increase its size and variability. We will then use a pre-trained ResUnet model and CNN## to train the data and generate predictions for new images.
