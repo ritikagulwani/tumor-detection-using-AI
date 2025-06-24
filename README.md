@@ -9,6 +9,15 @@ After training, we evaluated the performance of the model on a separate test set
 ## Dataset
 We're going to use an open data source from Kaggle: https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation
 
+## Technologies description
+
+ResNet (Residual Neural Network) is an artificial neural network (ANN) that skip connections or shortcuts used to jump over some layers (HighwayNets may also learn the skip weights themselves through an additional weight matrix for their gates). 
+
+ResUNet infers sequentially the boundary of the objects, the distance transform of the segmentation mask, the segmentation mask and a colored reconstruction of the input. It helps in recognizing the location of tumor.
+
+Image segmentation is a method of dividing a digital image into subgroups called image segments, reducing the complexity of the image and enabling further processing or analysis of each image segment. Image segmentation is a function that takes image inputs and produces an output.
+
+Transfer learning is a machine learning method where a model developed for a task is reused as the starting point for a model on a second task.
 
 
 ## Some Demo Output
