@@ -9,19 +9,21 @@ After training, we evaluated the performance of the model on a separate test set
 ## Some Demo Output
 
 ## 1. interactive bar chart
-![WhatsApp Image 2025-06-07 at 18 37 44 (4)](https://github.com/user-attachments/assets/7bc216b5-c774-49ff-8deb-7ef11e82c949)
+![IMG_20250624_120511](https://github.com/user-attachments/assets/9c255e0b-f962-4231-b4c0-9a40e00c7558)
+
 
 ## 2. Brain mask
-![WhatsApp Image 2025-06-07 at 18 37 44 (3)](https://github.com/user-attachments/assets/5181bcf2-0adf-47f0-b3be-d796f33fa6d0)
+![IMG_20250624_120531](https://github.com/user-attachments/assets/264120a6-e2b9-4a12-8d53-2b71c965c85e)
 
-## 3. randomly selected (1) MRI scan images from only sick patients followed by (2) corresponding mask, (3) both MRI image and the corresponding mask (in red color) on top of each other
-![WhatsApp Image 2025-06-07 at 18 37 44 (2)](https://github.com/user-attachments/assets/f49a19e0-4339-4b20-b3fa-49f324e459d4)
+## 3. randomly selected (1) MRI scan images from only sick patients followed by (2) corresponding mask, (3) both MRI image and the corresponding mask (in blue color) on top of each other
+![IMG_20250624_120604](https://github.com/user-attachments/assets/e4a8b77f-9c1d-48f8-9a50-d0f7c64eae43)
+
 
 ## 4. Predicted data
-![WhatsApp Image 2025-06-07 at 18 37 44 (1)](https://github.com/user-attachments/assets/7921c14a-c784-406c-a7c4-5502e56a87e4)
+![IMG_20250624_120628](https://github.com/user-attachments/assets/233a5d47-6eec-48ad-8a63-483eecf7257c)
 
 ## 5. Confusion Matrix
-![WhatsApp Image 2025-06-07 at 18 37 44](https://github.com/user-attachments/assets/259ec621-2fff-45cb-9178-04e999889164)
+![IMG_20250624_120649](https://github.com/user-attachments/assets/12c5365f-5df3-4146-b719-367eb82e5527)
 
 ## 6. Final prediction output
 ![Brain_tumor_output](https://github.com/user-attachments/assets/cdf0ec4c-e892-4a7b-a310-bd3290d4e899)
