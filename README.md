@@ -29,10 +29,13 @@ Transfer learning is a machine learning method where a model developed for a tas
 ## Getting Started
 To run this project locally, follow these steps:
 
-Clone the repository
-Install the required libraries: If you're using Google Colab, you don't need to pip install. Just follow the importing the dependencies section.
-Launch Google Colab: https://colab.research.google.com/
-Open the BrainTumor.ipynb file and run the notebook cells sequentially.
+1.Clone the repository
+
+2.Install the required libraries: If you're using Google Colab, you don't need to pip install. Just follow the importing the dependencies section.
+
+3.Launch Google Colab: https://colab.research.google.com/
+
+4.Open the BrainTumor.ipynb file and run the notebook cells sequentially.
 
 
 ## Some Demo Output
