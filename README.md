@@ -26,6 +26,14 @@ Image segmentation is a method of dividing a digital image into subgroups called
 
 Transfer learning is a machine learning method where a model developed for a task is reused as the starting point for a model on a second task.
 
+## Getting Started
+To run this project locally, follow these steps:
+
+Clone the repository
+Install the required libraries: If you're using Google Colab, you don't need to pip install. Just follow the importing the dependencies section.
+Launch Google Colab: https://colab.research.google.com/
+Open the  file and run the notebook cells sequentially.
+
 
 ## Some Demo Output
 
